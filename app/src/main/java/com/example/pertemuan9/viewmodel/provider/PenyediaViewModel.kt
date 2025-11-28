@@ -5,6 +5,7 @@ import androidx.lifecycle.viewmodel.CreationExtras
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
 import com.example.pertemuan9.repositori.AplikasiSiswa
+import com.example.pertemuan9.viewmodel.EntryViewModel
 import com.example.pertemuan9.viewmodel.HomeViewModel
 
 object PenyediaViewModel {

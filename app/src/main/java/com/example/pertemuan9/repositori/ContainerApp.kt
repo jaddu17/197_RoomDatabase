@@ -5,6 +5,7 @@ import android.content.Context
 import com.example.pertemuan9.room.DatabaseSiswa
 
 interface ContainerApp{
+    val respositoriSiswa: RepositoriSiswa
     val repositoriSiswa : RepositoriSiswa
 }
 
